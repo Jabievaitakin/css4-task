@@ -169,6 +169,16 @@ margin: 0 auto;
             }
           }
         }
+        a {
+            border-radius: 30px;
+            border: none;
+            background-color: #007bff;
+            padding: 10px 20px;
+            color: #fff;
+            &:hover {
+              background-color: #000;
+            }
+          }
       }
 
     }
